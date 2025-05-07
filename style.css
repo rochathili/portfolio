@@ -1,0 +1,12 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    color: black;
+}
+
+header{
+    background-color: yellow;
+    width: 100dvw; /* Device View Width | Largura da visualização do dispositivo*/
+}
